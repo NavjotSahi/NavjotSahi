@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Navjot Sahi!
 
-🎓 Pre-final Year Student @ UPES Dehradun  
-☁️ Majoring in Cloud Computing and Virtualization Technologies  
+🎓 Final Year Student @ UPES Dehradun  
+☁️ Majoring in Artificial Intelligence and Machine Learning  
 🚀 Passionate about AI, Machine Learning, and Network Security  
 📚 Currently diving deep into anomaly detection and compiler design  
 🌱 Always learning, building, and exploring new tech
@@ -11,9 +11,9 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 **Web & Frameworks:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
