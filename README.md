@@ -60,7 +60,7 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navjot-sahi3-360470268/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navjot-sahi-360470268/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:sahinavjot0@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://portfolio-ksmcx53axsewrzmdbywmdd.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github&logoColor=white)](https://github.com/NavjotSahi)
