@@ -57,12 +57,7 @@
 > Personalized skincare advice based on CNN skin-type classification
 
 ---
-## 📈 GitHub Stats
 
-![Navjot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=navjotsahi&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navjotsahi&layout=compact)
-
----
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navjot-sahi-360470268/)
