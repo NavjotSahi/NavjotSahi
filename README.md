@@ -52,9 +52,6 @@
 *Tech:* TensorFlow, Kubernetes, Vultr Cloud  
 > Top 5 out of 3,500+ in Vultr Hackathon; 30% faster NLP responses  
 
-**🔹 Skincare Recommendation System**  
-*Tech:* Java, CNN, Collaborative Filtering  
-> Personalized skincare advice based on CNN skin-type classification
 
 ---
 
